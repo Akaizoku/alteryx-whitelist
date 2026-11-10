@@ -43,6 +43,7 @@ Alteryx One network whitelisting requirements.
 | Documentation & Community | `license.alteryx.com` | Alias for <https://community.alteryx.com/t5/Community-Gallery/ct-p/Community-gallery> |
 | Documentation & Community | `academy.alteryx.com` | Academy Learning Portal |
 | Downloads | `downloads.alteryx.com` | Alias for Legacy Flexera Download Portal <https://us1.alteryxcloud.com/license-portal> |
+| Downloads | `marketplace.alteryx.com` | Alteryx Marketplace |
 | Corporate / Marketing | `alteryx.com` | Main Corporate Website |
 | Corporate / Marketing | `www.alteryx.com` | Main Corporate Website |
 | Telemetry & Monitoring | `sentry.my.alteryx.com` | Telemetry Gateway |
@@ -54,9 +55,9 @@ Alteryx One network whitelisting requirements.
 
 | Region | Location | Control Plane IP Addresses | Data Plane IP Addresses |
 | --- | --- | --- | --- |
-| US (us1) | Oregon, US | `34.82.130.80/29` `54.240.127.79` `54.240.127.78` `198.244.48.34` | `44.225.183.12/32` `52.89.130.54/32` `35.163.16.225/32` |
-| EMEA (eu1) | Frankfurt, Germany | `34.89.162.16/29` `54.240.127.79` `54.240.127.78` `198.244.48.34` | `3.73.229.70/32` `3.74.64.229/32` `3.78.97.169/32` |
-| APAC (au1) | Sydney, Australia | `34.40.128.80/29` `54.240.127.79` `54.240.127.78` `198.244.48.34` | `13.210.106.106/32` `3.105.170.156/32` `52.63.126.137/32` |
+| US (us1) | Oregon, US | `34.82.130.80/29`<br>`54.240.127.79`<br>`54.240.127.78`<br>`198.244.48.34` | `44.225.183.12/32`<br>`52.89.130.54/32`<br>`35.163.16.225/32` |
+| EMEA (eu1) | Frankfurt, Germany | `34.89.162.16/29`<br>`54.240.127.79`<br>`54.240.127.78`<br>`198.244.48.34` | `3.73.229.70/32`<br>`3.74.64.229/32`<br>`3.78.97.169/32` |
+| APAC (au1) | Sydney, Australia | `34.40.128.80/29`<br>`54.240.127.79`<br>`54.240.127.78`<br>`198.244.48.34` | `13.210.106.106/32`<br>`3.105.170.156/32`<br>`52.63.126.137/32` |
 
 ## Offline Activation
 
